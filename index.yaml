@@ -24,6 +24,16 @@ entries:
   enonic-xp7:
   - apiVersion: v2
     appVersion: 7.4.1-ubuntu
+    created: "2021-08-18T15:50:59.627298021Z"
+    description: A deployable Enonic XP application
+    digest: 80b47d8bc9588e97479950dff82ed5f0a51689fc3ec49b1b57d01c9f223fb33f
+    name: enonic-xp7
+    type: application
+    urls:
+    - https://DaviPtrs.github.io/helm-charts/enonic-xp7-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: 7.4.1-ubuntu
     created: "2021-08-05T20:41:10.028735534Z"
     description: A deployable Enonic XP application
     digest: 10c6e6bdd85fc212e4010331985e12b9e4948373dc5e76a2b0b31570db6aeee5
@@ -72,4 +82,4 @@ entries:
     urls:
     - https://DaviPtrs.github.io/helm-charts/enonic-xp7-0.1.0.tgz
     version: 0.1.0
-generated: "2021-08-13T00:24:36.187222459Z"
+generated: "2021-08-18T15:50:59.626437109Z"
