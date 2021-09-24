@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   enonic-operator:
   - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2021-09-24T23:01:43.655147928Z"
+    description: A Kubernetes Operator to handle with Enonic XP7 applications
+    digest: 07f354623792d915890f2d643b47e1b36d1af306b3822d6663d9d2319a3947f8
+    name: enonic-operator
+    type: application
+    urls:
+    - https://DaviPtrs.github.io/helm-charts/enonic-operator-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v2
     appVersion: 1.0.1
     created: "2021-08-13T00:24:36.18777357Z"
     description: A Kubernetes Operator to handle with Enonic XP7 applications
@@ -102,4 +112,4 @@ entries:
     urls:
     - https://DaviPtrs.github.io/helm-charts/enonic-xp7-0.1.0.tgz
     version: 0.1.0
-generated: "2021-08-21T00:18:43.804182435Z"
+generated: "2021-09-24T23:01:43.654582396Z"
